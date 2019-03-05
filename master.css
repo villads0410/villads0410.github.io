@@ -1,0 +1,33 @@
+body {
+    font-family:serif;
+    color: brown;
+    font-size: 30;
+    background-color: white;
+}
+
+.asdf{
+  background-color: blue;
+  color: white;
+}
+
+.qwer {
+background-color: violet;
+margin: 2em;
+padding: 2em;
+color: white;
+border: 3px solid lightgray;
+}
+
+em:hover {
+  font-size: 4em;
+transition: 1s
+}
+
+.ghj {
+font-size: 90px
+margin: 4em;
+padding: 2em;
+
+
+
+}
